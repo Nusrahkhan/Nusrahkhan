@@ -1,5 +1,5 @@
 <!-- Big capsule header -->
-<h1 align="center" style="font-weight:700; font-size:60px;">
+<h1 align="center" style="font-weight:700; font-size:80px;">
   <span style="color:#00eaff; text-shadow:0 0 20px #00eaff;">Hey Everyone!</span>
 </h1>
 
@@ -13,8 +13,8 @@
 
 ---
 
-### I'm **Nusrah**  
-**AI & Full-Stack learner** — focused on Deep Learning (CNNs & vision models), building model-backed apps with **Flask**, and exploring **React**.
+## I'm **Nusrah**  
+**AI & Full-Stack learner** — focused on Deep Learning (CNNs & vision models), building model-backed apps with **Flask**, and exploring **Deep Learning**.
 
 - 🔭 **Working on:** CNNs, neural networks, modern AI workflows  
 - 🌱 **Learning:** Deep Learning, model training & deployment, productionizing ML  
