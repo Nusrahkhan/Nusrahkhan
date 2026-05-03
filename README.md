@@ -24,7 +24,7 @@
 
 ## 🧰 Technologies I use / learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,html,css,js,java,python,flask,react,nodejs, langgraph, langchain,tensorflow,opencv&perline=14" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,java,python,flask,react,nodejs,tensorflow,opencv&perline=14" alt="tech stack" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
