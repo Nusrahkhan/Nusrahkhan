@@ -14,17 +14,17 @@
 ---
 
 ## I'm **Nusrah**  
-**AI & Full-Stack learner** — focused on Deep Learning (CNNs & vision models), building model-backed apps with **Flask**, and exploring **Deep Learning**.
+**AI Engineer & Web Dev Backend Developer in Progress** — focused on Deep Learning (CNNs & vision models), building model-backed apps with **Flask**, and exploring **Deep Learning**.
 
-- 🔭 **Working on:** CNNs, neural networks, modern AI workflows  
-- 🌱 **Learning:** Deep Learning, model training & deployment, productionizing ML  
-- 🧩 **Stack I use:** Flask, React (learning), Python, TensorFlow, PyTorch, OpenCV
+- 🔭 Working on: AI agents, LangGraph workflows, real-world LLM apps
+- 🌱 Learning: Advanced prompt engineering, RAG pipelines, system design for AI apps 
+- 🧩 **Stack I use:** Python, LangGraph, LangChain, FastAPI, Flask, TensorFlow, OpenCV etc
 
 ---
 
 ## 🧰 Technologies I use / learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,html,css,js,java,python,flask,react,nodejs,tensorflow,opencv&perline=14" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,java,python,flask,react,nodejs, langgraph, langchain,tensorflow,opencv&perline=14" alt="tech stack" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -49,9 +49,10 @@ Python • TensorFlow • NumPy • Pandas • scikit-learn • Google Colab •
 
 
 ## ✨ Current Focus
-- Training efficient **CNNs** for image tasks (classification)  
-- Building CV pipelines with **OpenCV** + TensorFlow  
-- Serving models with lightweight **Flask** APIs and building React demo frontends  
+- Building AI-powered backend systems with FastAPI
+- Designing LangGraph agent pipelines (like autonomous workflows)
+- Developing OCR + document processing tools
+- Learning how to scale AI apps to production
 - Automating model/data workflows with **n8n**
 
 ---
