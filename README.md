@@ -61,12 +61,14 @@ An AI-powered skincare & beauty intelligence platform designed to help users mak
 - Autonomous Agents
 - APScheduler / Cron Jobs
 - Web Scraping
+- OCR 
 
 ### 🧠 ML / NLP
 - TensorFlow
 - OpenCV
 - NLP
 - Sentiment Analysis
+- n8n
 
 ### 🌐 Backend & Web
 - Python
@@ -81,14 +83,6 @@ An AI-powered skincare & beauty intelligence platform designed to help users mak
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced **Agentic AI architectures**
-- LLM evaluation & reliability
-- AI system design
-- Production ready AI applications
-- Deep Learning
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -100,31 +94,6 @@ An AI-powered skincare & beauty intelligence platform designed to help users mak
 </p>
 
 ---
-
-## 🤝 Let's Connect
-
-I'm always interested in **AI, agentic systems, automation, and building cool things.**
-
-If you're working on something interesting in AI, feel free to connect! src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
-
-<p align="center"><sub>
-Python • TensorFlow • NumPy • Pandas • scikit-learn • Google Colab • n8n
-</sub></p>
-
----
-
-## 📊 GitHub Stats
-[![Nusrah's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nusrahkhan&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Nusrah's github stats](https://github-readme-stats.vercel.app/api?username=Nusrahkhan&show_icons=true&theme=tokyonight) | ![Nusrah's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nusrahkhan&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nusrahkhan&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Nusrahkhan&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
 
 ## ✨ Current Focus
 - Building AI-powered backend systems with FastAPI
