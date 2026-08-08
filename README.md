@@ -49,11 +49,6 @@ Browser-based 3D escape rooms that teach data structures through interactive puz
 
 **Stack:** LangGraph + Groq (LLaMA) · Streamlit · Tavily API · Pydantic
 
-## 🛠️ AI & Automation Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,fastapi,flask&perline=10" />
-</p>
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -103,6 +98,5 @@ Browser-based 3D escape rooms that teach data structures through interactive puz
 - Designing LangGraph agent pipelines (like autonomous workflows)
 - Developing OCR + document processing tools
 - Learning how to scale AI apps to production
-- Automating model/data workflows with **n8n**
 
 ---
