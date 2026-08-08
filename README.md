@@ -20,7 +20,7 @@ I'm particularly interested in building systems that don't just generate respons
 
 ---
 
-## 🧠 Featured Project
+## 🧠 Featured Projects
 
 ### 🌸 DeInfluencer AI
 AI based skincare intelligence platform — personalized product recommendations backed by dermatology research instead of hype.
