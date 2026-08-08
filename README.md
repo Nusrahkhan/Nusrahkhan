@@ -84,10 +84,6 @@ Browser-based 3D escape rooms that teach data structures through interactive puz
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nusrahkhan&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nusrahkhan&theme=tokyonight" />
 </p>
 
